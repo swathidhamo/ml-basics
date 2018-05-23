@@ -1,0 +1,51 @@
+#This is to create a comprehensive list of all resources as such that I have used from my intern
+##Day 1
+#Central limit theorem: https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/sampling-distribution-mean/v/central-limit-theorem
+#Multivariate gaussian distribution - https://www.youtube.com/watch?v=eho8xH3E6mE
+#CART Decision trees that scikit learn uses - https://www.youtube.com/watch?v=p17C9q2M00Q
+#You can use either sklearn.make_Classification or you can use numpy.multivariate_normal
+The numpy one lets you specify the mean so that is preferred
+https://het.as.utexas.edu/HET/Software/Numpy/reference/generated/numpy.random.multivariate_normal.html
+
+#Generating multivariate gaussian numbers:- http://www.aishack.in/tutorials/generating-multivariate-gaussian-random/
+
+##Indicator variables - http://home.iitk.ac.in/~shalab/regression/Chapter8-Regression-IndicatorVariables.pdf
+#Linear regression - https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r/
+
+##Choosing the right classifier 
+https://www.kaggle.com/jeffd23/10-classifier-showdown-in-scikit-learn/code
+
+##Gradient descent algorithm can be used to a range of machine learning algorithms not just regression 
+https://www.coursera.org/learn/machine-learning/supplement/2GnUg/gradient-descent
+Stochastic gradient descent is an extension of batch gradient descent that is used to comparitively smaller batches 
+https://www.youtube.com/watch?v=UfNU3Vhv5CA
+#Regularization and penalty 
+https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+##Precision, recall and F-score -> best link 
+https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
+
+#For preprocessing and transforming missing values use imputer - http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Imputer.html
+##https://www.kaggle.com/jeffd23/10-classifier-showdown-in-scikit-learn/code
+
+##Cross validation and K folds
+https://www.analyticsvidhya.com/blog/2018/05/improve-model-performance-cross-validation-in-python-r/
+
+##Prescaling and pre processing in sklearn
+https://www.analyticsvidhya.com/blog/2016/07/practical-guide-data-preprocessing-python-scikit-learn/
+##Data visualization 
+https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57
+
+#logistic regression - https://machinelearningmastery.com/logistic-regression-for-machine-learning/
+###Good Insight##Ridge and lasso
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/ 
+##PCA
+http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca
+
+##Naive bayes classifier
+http://dataaspirant.com/2017/02/06/naive-bayes-classifier-machine-learning/
+
+#Feature scaling 
+http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
+
+#Mutlidimensional plotting 
+https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57
